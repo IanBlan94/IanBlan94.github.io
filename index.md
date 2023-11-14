@@ -2,4 +2,4 @@
 <p>Are you ready for the hackathon?</p>
 
 <p>heres an image</p>
-<img src="download.jfif"
+<img src="download.jfif"><img>
