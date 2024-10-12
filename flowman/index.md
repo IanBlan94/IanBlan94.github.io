@@ -1,11 +1,13 @@
-#Creative Brief: Flowman
-#1. Brand Overview
-Company/Organization Name: Flowman
-Industry/Sector: EdTech
-Mission Statement: To empower students with a dynamic math learning experience while enabling parents to actively engage in their child’s progress through modern, intuitive technology.
-Brand History: Flowman was founded by a team of students  who recognized the need for a seamless tool that bridges the gap between learning and monitoring progress. It’s designed to foster collaboration between students, parents, and teachers.
-Core Values: Innovation, Transparency, Collaboration
-Target Audience: Students aged 8-18 looking for math support, their parents who want insight into their academic progress, and educators who require supplementary learning tools.
+# Creative Brief: Flowman
+
+## 1. Brand Overview
+
+**Company/Organization Name:** Flowman
+**Industry/Sector:** EdTech
+** Mission Statement:** To empower students with a dynamic math learning experience while enabling parents to actively engage in their child’s progress through modern, intuitive technology.
+**Brand History:** Flowman was founded by a team of students  who recognized the need for a seamless tool that bridges the gap between learning and monitoring progress. It’s designed to foster collaboration between students, parents, and teachers.
+**Core Values:** Innovation, Transparency, Collaboration
+**Target Audience:** Students aged 8-18 looking for math support, their parents who want insight into their academic progress, and educators who require supplementary learning tools.
 #2. Brand Identity
 Brand Essence: Effortless Learning, Clear Progress
 Key Attributes to Communicate: User-friendly interface, Seamless parent-student-teacher interaction, Educational, Insightful
