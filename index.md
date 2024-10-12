@@ -1,3 +1,5 @@
+October 2024: Creative Brief for CTS285. <a href="https://ianblan94.github.io/flowman/">Flowman</a>
+
 <p>This project is a recreation of the 1977 classic Texas Instruments Dataman This project aims to deliver functionality similar to that of the Dataman but updated to the modern day and presented as a web app.</p>
 <ul>
   <p>So far I have been able to implememt: </p>
