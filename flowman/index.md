@@ -26,6 +26,7 @@
 # 3. Product/Service Information
 
 **Main Offerings:**
+
 •	Flowman Web App: A comprehensive, advanced math calculator with tracking capabilities
 
 •	Parent Monitoring System: Allows parents to oversee their child's learning progress, identifying strengths and areas for improvement
@@ -34,6 +35,7 @@
 Unique Selling Proposition (USP): The only calculator app that combines advanced computational capabilities with real-time performance tracking, connecting students and parents in their academic journey.
 
 **Key Benefits:**
+
 •	Helps students excel in math
 
 •	Enables parents to stay informed about their child’s academic progress
