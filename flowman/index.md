@@ -15,16 +15,22 @@
 
 # 2. Brand Identity
 **Brand Essence:** Effortless Learning, Clear Progress
+
 **Key Attributes to Communicate:** User-friendly interface, Seamless parent-student-teacher interaction, Educational, Insightful
+
 **Emotional Response to Evoke:** Confidence, Motivation, Achievement
+
 **Visual Style Direction:** Clean, intuitive design with a focus on flow and structure, using calming, modern colors such as teal, light gray, and energetic pops of green.
+
 **Brand Personality**: A mentor that guides students towards success while reassuring parents with insights into their child’s academic journey.
 # 3. Product/Service Information
+
 **Main Offerings:**
 •	Flowman Web App: A comprehensive, advanced math calculator with tracking capabilities
 •	Parent Monitoring System: Allows parents to oversee their child's learning progress, identifying strengths and areas for improvement
 •	Interactive Learning Dashboard: Provides students with real-time feedback on their performance and suggestions for improvement
 Unique Selling Proposition (USP): The only calculator app that combines advanced computational capabilities with real-time performance tracking, connecting students and parents in their academic journey.
+
 **Key Benefits:**
 •	Helps students excel in math
 •	Enables parents to stay informed about their child’s academic progress
@@ -33,6 +39,7 @@ Unique Selling Proposition (USP): The only calculator app that combines advanced
 # 4. Market Analysis
 Competitors: Khan Academy, IXL, Microsoft Math Solver, Desmos
 Market Position: Premium educational tool with a focus on real-time tracking and collaborative learning.
+
 **SWOT Analysis:**
 •	Strengths: Combines learning with progress monitoring, interactive user experience, adaptable for various math levels
 •	Weaknesses: New to the market, initial user trust-building required
